@@ -5,15 +5,16 @@
 		"uniqueTo": "Greece",
 		"movement": 1,
 		"strength": 8192,
-		"rangedStrength": 2048,
-		"range": 2048,
+		"rangedStrength": 1024,
+		"range": 512,
 		"cost": 1,
 		"uniques": [
 			"[+128] Sight",
 			"Can see over obstacles",
 			"Nuclear weapon of Strength [128]",
 			"Self-destructs when attacking",
-			"Blast radius [8192]"
+			"Blast radius [1024]",
+			"[Privateer] ability"
 		],
 		"attackSound": "nuke"
 	}
