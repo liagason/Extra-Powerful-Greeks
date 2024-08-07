@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Heavenlyfire",
+		"unitType": "Missile",
+		"uniqueTo": "Greece",
+		"movement": 1,
+		"strength": 32768,
+		"rangedStrength": 32768,
+		"range": 32768,
+		"cost": 1,
+		"uniques": [
+			"May enter foreign tiles without open borders",
+			"[+128] Sight",
+			"Can see over obstacles",
+			"Ignores Zone of Control",
+			"[Privateer] ability"
+		],
+		"attackSound": "nuke"
+	}
+]
