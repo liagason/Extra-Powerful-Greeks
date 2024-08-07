@@ -19,7 +19,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "The Peacemaker",
+		"name": "The Peacemaker II",
 		"unitType": "Missile",
 		"uniqueTo": "Byzantium",
 		"movement": 1,
