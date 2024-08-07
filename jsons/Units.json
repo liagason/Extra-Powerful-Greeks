@@ -5,14 +5,15 @@
 		"uniqueTo": "Greece",
 		"movement": 1,
 		"strength": 8192,
-		"rangedStrength": 8192,
-		"range": 4096,
+		"rangedStrength": 2048,
+		"range": 2048,
 		"cost": 1,
 		"uniques": [
-			"May enter foreign tiles without open borders",
 			"[+128] Sight",
 			"Can see over obstacles",
-			"Ignores Zone of Control"
+			"Nuclear weapon of Strength [128]",
+			"Self-destructs when attacking",
+			"Blast radius [8192]"]
 		],
 		"attackSound": "nuke"
 	}
