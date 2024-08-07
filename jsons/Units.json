@@ -14,7 +14,7 @@
 			"Nuclear weapon of Strength [128]",
 			"Self-destructs when attacking",
 			"Blast radius [1024]",
-			"[Privateer] ability"
+			"Invisible to others"
 		],
 		"attackSound": "nuke"
 	}
