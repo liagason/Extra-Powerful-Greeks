@@ -2,7 +2,26 @@
 	{
 		"name": "The Peacemaker",
 		"unitType": "Missile",
-		"uniqueTo": ["Greece", "Byzantium"],
+		"uniqueTo": "Greece",
+		"movement": 1,
+		"strength": 8192,
+		"rangedStrength": 8192,
+		"range": 256,
+		"cost": 1,
+		"uniques": [
+			"[+128] Sight",
+			"Can see over obstacles",
+			"Nuclear weapon of Strength [8192]",
+			"Self-destructs when attacking",
+			"Blast radius [1024]",
+			"Invisible to others"
+		],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "The Peacemaker",
+		"unitType": "Missile",
+		"uniqueTo": "Byzantium",
 		"movement": 1,
 		"strength": 8192,
 		"rangedStrength": 8192,
