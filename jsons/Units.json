@@ -58,5 +58,5 @@
 		"cost": 1,
 		"uniques": ["Can hurry technology research", "Founds a new city <by consuming this unit>", "May enter foreign tiles without open borders", "Can speed up construction of a building", "[+4] Sight", "Can see over obstacles", "Can move after attacking", "Can see invisible [Submarine] units", "Ignores Zone of Control", "Defense bonus when embarked"],
 		"attackSound": "shot"
-	}
+	},
 ]
