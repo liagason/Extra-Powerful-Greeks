@@ -1,62 +1,86 @@
 [
-	{
-		"name": "The Peacemaker",
-		"unitType": "Missile",
-		"uniqueTo": "Greece",
-		"movement": 1,
-		"strength": 8192,
-		"rangedStrength": 8192,
-		"range": 256,
-		"cost": 1,
-		"uniques": [
-			"[+128] Sight",
-			"Can see over obstacles",
-			"Nuclear weapon of Strength [8192]",
-			"Self-destructs when attacking",
-			"Blast radius [1024]",
-			"Invisible to others"
-		],
-		"attackSound": "nuke"
-	},
-	{
-		"name": "The Peacemaker II",
-		"unitType": "Missile",
-		"uniqueTo": "Byzantium",
-		"movement": 1,
-		"strength": 8192,
-		"rangedStrength": 8192,
-		"range": 256,
-		"cost": 1,
-		"uniques": [
-			"[+128] Sight",
-			"Can see over obstacles",
-			"Nuclear weapon of Strength [8192]",
-			"Self-destructs when attacking",
-			"Blast radius [1024]",
-			"Invisible to others"
-		],
-		"attackSound": "nuke"
-	},
-	{
-		"name": "Hypaspists",
-		"unitType": "Gunpowder",
-		"replaces": "Infantry",
-		"uniqueTo": "Greece",
-		"movement": 2048,
-		"strength": 8192,
-		"cost": 1,
-		"uniques": ["Can hurry technology research", "Founds a new city <by consuming this unit>", "May enter foreign tiles without open borders", "Can speed up construction of a building", "[+4] Sight", "Can see over obstacles", "Can move after attacking", "Can see invisible [Submarine] units", "Ignores Zone of Control", "Defense bonus when embarked", "Can undertake a trade mission with City-State, giving a large sum of gold and [512] Influence", "Gain [8192] [Gold]"
-		],
-		"attackSound": "shot"
-	},
-		"name": "Varangian Guard",
-		"unitType": "Gunpowder",
-		"replaces": "Infantry",
-		"uniqueTo": "Byzantium",
-		"movement": 2048,
-		"strength": 8192,
-		"cost": 1,
-		"uniques": ["Can hurry technology research", "Founds a new city <by consuming this unit>", "May enter foreign tiles without open borders", "Can speed up construction of a building", "[+4] Sight", "Can see over obstacles", "Can move after attacking", "Can see invisible [Submarine] units", "Ignores Zone of Control", "Defense bonus when embarked"],
-		"attackSound": "shot"
-	},
+    {
+        "name": "The Peacemaker",
+        "unitType": "Missile",
+        "uniqueTo": "Greece",
+        "movement": 1,
+        "strength": 8192,
+        "rangedStrength": 8192,
+        "range": 256,
+        "cost": 1,
+        "uniques": [
+            "[+128] Sight",
+            "Can see over obstacles",
+            "Nuclear weapon of Strength [8192]",
+            "Self-destructs when attacking",
+            "Blast radius [1024]",
+            "Invisible to others"
+        ],
+        "attackSound": "nuke"
+    },
+    {
+        "name": "The Peacemaker II",
+        "unitType": "Missile",
+        "uniqueTo": "Byzantium",
+        "movement": 1,
+        "strength": 8192,
+        "rangedStrength": 8192,
+        "range": 256,
+        "cost": 1,
+        "uniques": [
+            "[+128] Sight",
+            "Can see over obstacles",
+            "Nuclear weapon of Strength [8192]",
+            "Self-destructs when attacking",
+            "Blast radius [1024]",
+            "Invisible to others"
+        ],
+        "attackSound": "nuke"
+    },
+    {
+        "name": "Hypaspists",
+        "unitType": "Gunpowder",
+        "replaces": "Infantry",
+        "uniqueTo": "Greece",
+        "movement": 2048,
+        "strength": 8192,
+        "cost": 1,
+        "uniques": [
+            "Can hurry technology research",
+            "Founds a new city <by consuming this unit>",
+            "May enter foreign tiles without open borders",
+            "Can speed up construction of a building",
+            "[+4] Sight",
+            "Can see over obstacles",
+            "Can move after attacking",
+            "Can see invisible [Submarine] units",
+            "Ignores Zone of Control",
+            "Defense bonus when embarked",
+            "Can undertake a trade mission with City-State, giving a large sum of gold and [512] Influence",
+            "Gain [8192] [Gold]"
+        ],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Varangian Guard",
+        "unitType": "Gunpowder",
+        "replaces": "Infantry",
+        "uniqueTo": "Byzantium",
+        "movement": 2048,
+        "strength": 8192,
+        "cost": 1,
+        "uniques": [
+            "Can hurry technology research",
+            "Founds a new city <by consuming this unit>",
+            "May enter foreign tiles without open borders",
+            "Can speed up construction of a building",
+            "[+4] Sight",
+            "Can see over obstacles",
+            "Can move after attacking",
+            "Can see invisible [Submarine] units",
+            "Ignores Zone of Control",
+            "Defense bonus when embarked"
+        ],
+        "attackSound": "shot"
+    }
 ]
