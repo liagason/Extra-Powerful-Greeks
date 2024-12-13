@@ -65,9 +65,9 @@
         "name": "Varangian Guard",
         "unitType": "Gunpowder",
         "replaces": "Infantry",
-        "uniqueTo": "Byzantium",
+        "uniqueTo": "Greece",
         "movement": 2048,
-        "strength": 8192,
+        "strength": 32,
         "cost": 1,
         "uniques": [
             "Can hurry technology research",
