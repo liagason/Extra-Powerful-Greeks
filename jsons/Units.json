@@ -39,7 +39,9 @@
             "Can see invisible [Submarine] units",
             "Ignores Zone of Control",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-            "Defense bonus when embarked"
+            "Defense bonus when embarked",
+            "Gain [8192] [Gold]",
+            "Can undertake a trade mission with City-State, giving a large sum of gold and [512] Influence"
         ],
         "attackSound": "shot"
     }
