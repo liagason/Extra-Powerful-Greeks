@@ -41,7 +41,9 @@
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
             "Defense bonus when embarked",
             "Gain [8192] [Gold]",
-            "Can undertake a trade mission with City-State, giving a large sum of gold and [512] Influence"
+            "Can undertake a trade mission with City-State, giving a large sum of gold and [512] Influence",
+            "Ignores Zone of Control",
+            "Unable to capture cities"
         ],
         "attackSound": "shot"
     }
