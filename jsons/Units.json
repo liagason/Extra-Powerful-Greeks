@@ -38,6 +38,7 @@
             "Can move after attacking",
             "Can see invisible [Submarine] units",
             "Ignores Zone of Control",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
             "Defense bonus when embarked"
         ],
         "attackSound": "shot"
