@@ -19,7 +19,7 @@
         "attackSound": "nuke"
     },
     {
-        "name": "Varangian Guard",
+        "name": "Hypaspist",
         "unitType": "Gunpowder",
         "replaces": "Infantry",
         "uniqueTo": "Greece",
@@ -31,8 +31,6 @@
             "Founds a new city <by consuming this unit>",
             "May enter foreign tiles without open borders",
             "Can speed up construction of a building",
-            "Can build [Land] improvements on tiles",
-            "May create improvements on water resources",
             "[+4] Sight",
             "Can see over obstacles",
             "Can move after attacking",
@@ -40,8 +38,7 @@
             "Ignores Zone of Control",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
             "Defense bonus when embarked",
-            "Gain [8192] [Gold]",
-            "Can undertake a trade mission with City-State, giving a large sum of gold and [512] Influence"
+            "Gain [8192] [Gold]"
         ],
         "attackSound": "shot"
     }
