@@ -1,2 +1,2 @@
-# Unciv Superpower
-This is a test mod for Unciv.
+# Extra Powerful Greeks
+An Unciv mod that adds some really *really* poweful [unique] units to Greece.
