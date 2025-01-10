@@ -13,7 +13,7 @@
             "Can see over obstacles",
             "Nuclear weapon of Strength [8192]",
             "Self-destructs when attacking",
-            "Blast radius [1024]",
+            "Blast radius [16]",
             "Invisible to others"
         ],
         "attackSound": "nuke"
@@ -31,7 +31,8 @@
             "Founds a new city <by consuming this unit>",
             "May enter foreign tiles without open borders",
             "Can speed up construction of a building",
-            "[+4] Sight",
+"Can build [Land] improvements on tiles",
+            "[+8] Sight",
             "Can see over obstacles",
             "Can move after attacking",
             "Can see invisible [Submarine] units",
