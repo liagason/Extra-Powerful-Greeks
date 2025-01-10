@@ -13,7 +13,7 @@
             "Can see over obstacles",
             "Nuclear weapon of Strength [2]",
             "Self-destructs when attacking",
-            "Blast radius [16]",
+            "Blast radius [256]",
             "Invisible to others"
         ],
         "attackSound": "nuke"
