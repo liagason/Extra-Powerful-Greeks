@@ -45,8 +45,8 @@
         "name": "Greek Μercenary",
         "unitType": "Gunpowder",
         "uniqueTo": "Greece",
-        "movement": 8,
-        "strength": 128,
+        "movement": 128,
+        "strength": 192,
         "cost": 256,
         "uniques": [
             "[+4] Sight",
