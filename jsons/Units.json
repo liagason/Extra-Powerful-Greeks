@@ -44,7 +44,7 @@
         {
         "name": "Greek Μercenary",
         "unitType": "Gunpowder",
-        "replaces": "Infantry",
+        "replaces": "Rifleman",
         "uniqueTo": "Greece",
         "movement": 128,
         "strength": 192,
