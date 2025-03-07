@@ -31,15 +31,28 @@
             "Founds a new city <by consuming this unit>",
             "May enter foreign tiles without open borders",
             "Can speed up construction of a building",
-"Can build [Land] improvements on tiles",
+            "Can build [Land] improvements on tiles",
             "[+8] Sight",
             "Can see over obstacles",
             "Can move after attacking",
             "Can see invisible [Submarine] units",
-            "Ignores Zone of Control",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-            "Defense bonus when embarked",
             "Gain [8192] [Gold]"
+        ],
+        "attackSound": "shot"
+    },
+        {
+        "name": "Greek Μercenary",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Greece",
+        "movement": 8,
+        "strength": 128,
+        "cost": 256,
+        "uniques": [
+            "[+4] Sight",
+            "Can see over obstacles",
+            "Can move after attacking",
+            "Can see invisible [Submarine] units"
         ],
         "attackSound": "shot"
     }
